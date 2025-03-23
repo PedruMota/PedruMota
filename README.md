@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, my name is Pedro, and I am currently graduating in Statistics at the UFG.
 
-<!--
-**PedruMota/PedruMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📈 I currently work with data analysis and visualization using the R programming language.
+- 💻 I'm currently studying Statistics, English and learning to program in Python.
+- 📫 How to reach me: pedroaamota@outlook.com
 
-Here are some ideas to get you started:
+[![PedruMota's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedruMota&show_icons=true&theme=noctis_minimus)](https://github.com/PedruMota/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ADICIONAR OUTRO CARD DPS ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedruMota&layout=compact) -->
+<!-- ADICIONAR ICONS através deste site https://devicon.dev/ -->
+<!-- ADICIONAR TAGS através deste site https://dev.to/envoy_/150-badges-for-github-pnk -->
+
+
