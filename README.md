@@ -1,12 +1,12 @@
 ## 👋 Hello, I'm Pedro Mota.
-Currently deepening my expertise in Statistics and Machine Learning to solve complex problems through data-driven approaches.
+Currently deepening my expertise in Statistics and Machine Learning to solve problems through data-driven approaches.
 
 ## 📚 Current Focus
-**Statistical Learning**: Probability theory, inferential statistics, and Bayesian methods
+**Statistical Learning**: Probability theory and inferential statistics
 
 **Machine Learning**: Supervised/unsupervised learning, model evaluation, and optimization
 
-**Data Analysis**: Exploratory data analysis, hypothesis testing, and experimental design
+**Data Analysis**: Exploratory data analysis, data visualization, hypothesis testing, and experimental design
 
 **Practical Implementation**: Building end-to-end ML pipelines and deploying models
 
